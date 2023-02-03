@@ -1,2 +1,2 @@
-# projeto-1
+# Pagina-Marie_Curie
 Primeiro projeto desenvolvido com HTML e CSS.
