@@ -1,5 +1,5 @@
 ## ☢ Marie Curie
-Primeiro projeto desenvolvido utilizando as tecnologias HTML e CSS, uma página responsiva com breves informações sobre a vida da cientista [Marie Curie](https://karinasasaki.github.io/Pagina-Marie_Curie/).  
+Primeiro projeto desenvolvido utilizando as tecnologias HTML e CSS, uma página adaptativa com breves informações sobre a vida da cientista [Marie Curie](https://karinasasaki.github.io/Pagina-Marie_Curie/).  
   
 Visualização desktop:
 
